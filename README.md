@@ -1,59 +1,34 @@
-index.html
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Мой первый сайт</title>
+────────────────────────────
+      КОРНЕЙ
+Начинающий Web Developer
 
-    <style>
-        body{
-            margin:0;
-            background:#0f172a;
-            color:white;
-            font-family:Arial,sans-serif;
-            display:flex;
-            justify-content:center;
-            align-items:center;
-            height:100vh;
-            text-align:center;
-        }
+[ Смотреть работы ]
+────────────────────────────
 
-        h1{
-            font-size:55px;
-        }
+Обо мне
 
-        p{
-            color:#cbd5e1;
-            font-size:22px;
-        }
+Мне 15 лет.
+Изучаю веб-разработку.
+Создаю современные сайты.
 
-        button{
-            margin-top:20px;
-            padding:15px 35px;
-            border:none;
-            border-radius:10px;
-            background:#3b82f6;
-            color:white;
-            font-size:18px;
-            cursor:pointer;
-        }
+────────────────────────────
 
-        button:hover{
-            background:#2563eb;
-        }
-    </style>
-</head>
-<body>
+Навыки
 
-<div>
-    <h1>Привет 👋</h1>
-    <p>Это мой первый сайт.</p>
+✔ HTML
+✔ CSS
+✔ GitHub
 
-    <button onclick="alert('Спасибо за посещение!')">
-        Нажми меня
-    </button>
-</div>
+────────────────────────────
 
-</body>
-</html>
+Мои проекты
+
+• Первый сайт
+• Beauty Studio (скоро)
+
+────────────────────────────
+
+Контакты
+
+GitHub
+Telegram
